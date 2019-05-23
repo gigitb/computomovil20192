@@ -1,0 +1,15 @@
+//
+//  File.swift
+//  ShoppingCart
+//
+//  Created by Malori Morow on 13/03/2019.
+//  Copyright © 2019 Malori Morow. All rights reserved.
+//
+
+import Foundation
+
+enum ShippingType:Double{
+    case standard = 0.0
+    case express = 15.00
+    
+}
